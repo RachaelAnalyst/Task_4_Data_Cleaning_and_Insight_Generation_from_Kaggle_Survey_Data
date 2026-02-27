@@ -1,0 +1,43 @@
+106301 entries
+6289 duplicates
+101845   rows wirh missing values
+356 missing rows at q1
+62 missing rows at q2
+81 missing rows at q3
+1839 missing rows  at q4 1.7
+4915 missing rows at q5 4.8
+11871  missing rows at q6 12
+35903 missing rows at Q7_Part_1
+80961 missing rows at at Q7_Part_2
+68755 missing rows at Q7_Part_3
+92149  missing rows  at Q7_Part_4
+90227  missing rows at Q7_Part_5
+87443  missing rows at Q7_Part_6
+17861 missing rows at Q8 17
+60332  missing rows  at Q9_part_1
+80290 missing rows at Q9_part_2
+74776  missing rows  at Q9_part_3
+77994  missing rows at Q9_part_5
+86337  missing rows at Q9_part_6
+75459 rows missing values at Q10_Part_1
+77641  missing rows at Q_10_Part_2
+97767  missing rows at Q10_Part_3
+100834 missing values at Q10_Part_4
+91406  missing values at Q10_Part_5
+101489 missing values at Q10_Part_6
+60647  missing values at  Q11
+78861 missing values at  Q12_Part_1
+96938 missing values at Q12_Part_2
+99396   missing values at Q12_Part_5
+46459  missing values at Q13
+48000 rows  missing values at Q14_Part_1
+29044 missing values at Q15 unknown
+63840 missing values at q20
+60189  missing values at q21
+60814 missing values at Q22
+40869 missing values at Q23
+43046  missing values at Q25
+63842 missing values at Q26
+93676 missing values at Q33 90%
+98110 missing values at Q35 over 90%
+54376  missing values at Q41 53.9%
